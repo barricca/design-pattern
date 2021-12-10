@@ -16,6 +16,9 @@ public class Orcamento {
         return valor;
     }
 
+    /**
+     * @return A quantidade de itens de um orçamento.
+     */
     public int getQuantidadeItens() {
         return quantidadeItens;
     }
